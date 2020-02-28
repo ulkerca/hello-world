@@ -1,2 +1,3 @@
 # hello-world
-First repo on github
+
+PM, interested in data analysis, passionate about football -> Learning football analytics (with Python)
